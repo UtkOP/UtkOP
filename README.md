@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @UtkOP
-- 👀 I’m interested in CP and Web3(Blockchain)
-- 🌱 I’m currently learning advanced DSA and Prerequisites for Web3(Blockchain)
-- 💞️ I’m looking to collaborate on Web3 related projects  
+- 👋 Hi, I’m Utkarsh Kumar Giri, B.Tech gradaute of IIT Patna
+- 👀 I’m interested in Product Roles.
 - 📫 reach to me at utkarshkgiri@gmail.com
 
 <!---
